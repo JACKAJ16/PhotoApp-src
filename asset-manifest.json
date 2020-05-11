@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PhotoApp/static/css/main.d8b67ead.chunk.css",
+    "main.js": "/PhotoApp/static/js/main.76bfa6bf.chunk.js",
+    "main.js.map": "/PhotoApp/static/js/main.76bfa6bf.chunk.js.map",
+    "runtime-main.js": "/PhotoApp/static/js/runtime-main.048b0575.js",
+    "runtime-main.js.map": "/PhotoApp/static/js/runtime-main.048b0575.js.map",
+    "static/js/2.6c228986.chunk.js": "/PhotoApp/static/js/2.6c228986.chunk.js",
+    "static/js/2.6c228986.chunk.js.map": "/PhotoApp/static/js/2.6c228986.chunk.js.map",
+    "index.html": "/PhotoApp/index.html",
+    "precache-manifest.790a465271d46e9dfa53bbdadfb60de7.js": "/PhotoApp/precache-manifest.790a465271d46e9dfa53bbdadfb60de7.js",
+    "service-worker.js": "/PhotoApp/service-worker.js",
+    "static/css/main.d8b67ead.chunk.css.map": "/PhotoApp/static/css/main.d8b67ead.chunk.css.map",
+    "static/js/2.6c228986.chunk.js.LICENSE.txt": "/PhotoApp/static/js/2.6c228986.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.048b0575.js",
+    "static/js/2.6c228986.chunk.js",
+    "static/css/main.d8b67ead.chunk.css",
+    "static/js/main.76bfa6bf.chunk.js"
+  ]
+}
